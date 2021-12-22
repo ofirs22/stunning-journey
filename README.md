@@ -32,5 +32,5 @@ hopefully we will air some projects that will meen something eventualy
     "sequelize": "^6.12.1"
   }
 }
-# This is ho the package.json file looks like
-# We can go to https://www.npmjs.com/ to find packages and get information about every package
+# This is ho the package.json file looks like ☝️
+ We can go to https://www.npmjs.com/ to find packages and get information about every package
