@@ -37,4 +37,6 @@ the second part of this file will be to initialize the app constant and use the 
 the next part will be the application logic like creating routes, render html, connecting to database etc.
 the last part will be to use app.listen method to listen to the port we define like the screenshot below
 
+![image](https://user-images.githubusercontent.com/75007980/147144775-a1508bac-35bb-4700-887d-00fe99a92249.png)
+
  
