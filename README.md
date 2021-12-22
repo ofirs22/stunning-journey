@@ -22,3 +22,19 @@ hopefully we will air some projects that will meen something eventualy
 
 # This is the basic node project structure ☝️
  We can go to https://www.npmjs.com/ to find packages and get information about every package
+ 
+ # Start working with the express framework
+ 
+ we start by going to terminal and type "npm i express", this command will install all express dependencies
+ # Entry point to the express app
+ By convention we call the entry point of the express app (we declare the entry point when we npm init and the entry point can be found and modified in the   package.json file) index.js or app.js or server.js (i prefer server)
+ at the top of this file we require all the project dependencies and middlewares(see in the screenshot below)
+ ![image](https://user-images.githubusercontent.com/75007980/147141061-3ab05fcc-3170-4b2d-aa0f-4847ef72069e.png)
+ examples of middleware can be cors, loggers, routers,error handlers, etc.
+the second part of this file will be to initialize the app constant and use the middleware with app.use like the screenshot below
+![image](https://user-images.githubusercontent.com/75007980/147141819-b20ba484-0320-4cb8-be63-d13c5ac27c73.png)
+
+the next part will be the application logic like creating routes, render html, connecting to database etc.
+the last part will be to use app.listen method to listen to the port we define like the screenshot below
+
+ 
