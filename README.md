@@ -25,8 +25,8 @@ hopefully we will air some projects that will meen something eventualy
   },
   "author": "",
   "license": "ISC",
-  "dependencies": { (here we list all dependencies)
-    "express": "^4.17.2" (this is the express dependency),
+  "dependencies": { 👈(here we list all dependencies)
+    "express": "^4.17.2" 👈(this is the express dependency),
     "mysql2": "^2.3.3",
     "nodemon": "^2.0.15",
     "sequelize": "^6.12.1"
